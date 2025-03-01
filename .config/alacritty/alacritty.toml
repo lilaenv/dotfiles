@@ -29,8 +29,8 @@ foreground = "#a9b1d6"
 
 # ================= FONT =================
 [font]
-normal = { family = "JetBrainsMono Nerd Font", style = "Light" }
 bold = { family = "JetBrainsMono Nerd Font", style = "Bold" }
-italic = { family = "JetBrainsMono Nerd Font", style = "Light Italic" }
 bold_italic = { family = "JetBrainsMono Nerd Font", style = "Bold Italic" }
+italic = { family = "JetBrainsMono Nerd Font", style = "Light Italic" }
+normal = { family = "JetBrainsMono Nerd Font", style = "Light" }
 size = 12.0
