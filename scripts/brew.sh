@@ -21,4 +21,6 @@ cat <<EOF
 $(echo -e "\e[32m==>\e[0m") Process completed.
 $(echo -e "\e[34m==>\e[0m") Next steps:
 - Reload the current shell to apply the changes to your shell environment
+- Run the following command to install packages from the Brewfile:
+    brew bundle
 EOF
