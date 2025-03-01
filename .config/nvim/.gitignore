@@ -1,0 +1,14 @@
+# Default
+tt.*
+.tests
+doc/tags
+debug
+.repro
+foo.*
+*.log
+data
+
+# Custom
+LICENSE
+README.md
+.neoconf.json
