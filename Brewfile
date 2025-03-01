@@ -29,6 +29,7 @@ cask_args appdir: "/Applications"
 # cask "docker"                        # GUI for managing Docker containers and images
 # cask "figma"                         # Collaborative interface design tool
 # cask "firefox"                       # Open-source web browser from Mozilla
+# cask "font-jetbrains-mono"           # JetBrains Mono font
 # cask "font-jetbrains-mono-nerd-font" # JetBrains Mono font with Nerd Font icons
 # cask "google-chrome"                 # Web browser developed by Google
 # cask "iterm2"                        # Advanced terminal emulator for macOS
