@@ -15,6 +15,7 @@ cask_args appdir: "/Applications"
 # brew "ffmpeg"                        # Framework for recording, converting and streaming audio and video
 # brew "ghostscript"                   # Interpreter for PostScript and PDF files
 # brew "git"                           # Version control system for tracking changes in source code
+# brew "make"                          # Utility for directing compilation of source code into executable programs
 # brew "neovim"                        # Modern, extensible Vim-based text editor
 # brew "tmux"                          # Terminal multiplexer
 # brew "uv"                            # High-performance Python package manager, alternative to pip
