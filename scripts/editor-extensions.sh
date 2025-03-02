@@ -1,7 +1,7 @@
 #!/bin/bash
 # Overview: This script installs the extensions listed in extensions.txt to the editor.
 
-#Constants
+# Constants
 readonly SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 readonly EDITOR_DIR="${SCRIPT_DIR}/../.config/editor"
 readonly VSCODE_SETTING_PATH="${HOME}/Library/Application Support/Code/User/settings.json"
