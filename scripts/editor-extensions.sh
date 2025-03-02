@@ -1,10 +1,11 @@
 #!/bin/bash
 # Overview: This script installs the extensions listed in extensions.txt to the editor.
 
-SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
-EDITOR_DIR="${SCRIPT_DIR}/../.config/editor"
-VSCODE_SETTING_PATH="${HOME}/Library/Application Support/Code/User/settings.json"
-CURSOR_SETTING_PATH="${HOME}/Library/Application Support/Cursor/User/settings.json"
+#Constants
+readonly SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+readonly EDITOR_DIR="${SCRIPT_DIR}/../.config/editor"
+readonly VSCODE_SETTING_PATH="${HOME}/Library/Application Support/Code/User/settings.json"
+readonly CURSOR_SETTING_PATH="${HOME}/Library/Application Support/Cursor/User/settings.json"
 
 # Function to setup an editor
 setup_editor() {
