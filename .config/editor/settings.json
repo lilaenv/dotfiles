@@ -71,17 +71,17 @@
     "${workspaceFolder}/.venv/bin/ruff"
   ],
   "shellformat.effectLanguages": [
-    "shellscript",
+    "azcli",
+    "bats",
     "dockerfile",
     "dotenv",
-    "hosts",
-    "jvmoptions",
-    "ignore",
     "gitignore",
+    "hosts",
+    "ignore",
+    "jvmoptions",
     "properties",
-    "spring-boot-properties",
-    "azcli",
-    "bats"
+    "shellscript",
+    "spring-boot-properties"
   ],
   "shellformat.useEditorConfig": true
 }
