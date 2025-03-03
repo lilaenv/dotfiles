@@ -61,6 +61,7 @@ config.font = wezterm.font_with_fallback {
   { family = 'JetBrains Mono', weight = 'Light', italic = false },
   { family = 'Symbols Nerd Font', weight = 'Regular' },
 }
+config.font_size = 12
 
 -- Key Bindings
 config.keys = {
