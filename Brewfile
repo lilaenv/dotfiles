@@ -46,6 +46,7 @@ cask_args appdir: "/Applications"
 # Fonts
 # cask "font-jetbrains-mono"           # JetBrains Mono font
 # cask "font-jetbrains-mono-nerd-font" # JetBrains Mono font with Nerd Font icons
+# cask "font-symbols-only-nerd-font"   # All symbols and is intended to be used as fallback
 
 # Application from Mac App Store
 # Uncomment the line below if you want to install apps from Mac App Store with mas

@@ -59,7 +59,7 @@ config.colors = {
 -- Fonts
 config.font = wezterm.font_with_fallback {
   { family = 'JetBrains Mono', weight = 'Light', italic = false },
-  { family = 'JetBrainsMono Nerd Font', weight = 'Light', italic = false },
+  { family = 'Symbols Nerd Font', weight = 'Regular' },
 }
 
 -- Key Bindings
