@@ -9,7 +9,7 @@
     ghostty.url = "github:ghostty-org/ghostty";
   };
 
-  outputs = inputs @ { nixpkgs }: let
+  outputs = inputs @ { nixpkgs, ... }: let
     system = "aarch64-darwin";
     pkgs = nixpkgs.legacyPackages.${system};
   in {
